@@ -1,0 +1,7 @@
+USER_EXISTS = 'You already have an account, Please Login'
+LOGIN_SUCCESSFULL = 'Login Successful'
+USER_NOT_FOUND = 'User account doesn"t exists'
+ITEM_EXISTS = 'This Item already exists'
+ACCOUNT_DOES_NOT_EXISTS = 'Invalid login credentials'
+ITEM_DOES_NOT_EXISTS = 'This Item does not exists'
+ITEM_DELETED = 'Item deleted successfully'
